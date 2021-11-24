@@ -1,5 +1,5 @@
 # MyProjects
-This reporitory serves an organised list for all my projects.
+This reporitory serves as an organised list for all my projects.
 
 |Project|Tech Stack|Description|Link|
 |:-|:-:|-|:-:|
