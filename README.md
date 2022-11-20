@@ -4,10 +4,11 @@ This reporitory serves as an organised list for all my projects.
 |Project|Tech Stack|Description|Link|
 |:-|:-:|-|:-:|
 |||||
-|[Avishkar 2k22]()||||
+|[Avishkar 2k22]()|PhasorJS, ReactJs, NodeJs, PlanetScale, SQL| A website for annual techfest of MNNIT Allahabad|[here](https://avishkar.mnnit.ac.in/)|
 |[cWuzzle](https://cwuzzle.netlify.app/)|NextJs, FastAPI, SupaBase|A website about crossword puzzles|[here](https://cwuzzle.netlify.app/)|
 |[Gesto](https://gestobypotehtot.netlify.app/)|Mediapipe, Tensorflow.js, NextJs, FastAPI, Firebase|A first of it's kind web app for custom gesture training and recognition with Zero Prediction Latency, Faster Training and High Accuracy|[here](https://gestobypotehtot.netlify.app/)|
 |[Dr. Vincent](https://github.com/sanskaromar/Dr.Vincent)|Unity3D, C#|A RPG game based around theme of covid-19 pandemic|[here](https://github.com/sanskaromar/Dr.Vincent)|
+|[Collabarush]()|NextJS 13, SupaBase, SocketIO| A real time collborative paint application|[here](https://youtu.be/rlPfgZ50KW0)|
 |[Track My Tasks](https://track-my-tasks.netlify.app/todo)|React|Minimalistic Personal Tasks Tracker built with open source contribution from various devs|[here](https://track-my-tasks.netlify.app/todo)|
 |[Culrav 2k22]()|HTML, CSS, JS, PhP| Culrav is the annual cultural fest of MNNIT Allahabad. I along with @priyavkaneria were part of web team for Culrav 2k22|[here]()|
 |[protectHer](https://github.com/Arver24/protectHER)|React|A woman safety app and police client|[here](https://github.com/Arver24/protectHER)|
