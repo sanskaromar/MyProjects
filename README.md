@@ -5,7 +5,7 @@ This reporitory serves as an organised list for all my projects.
 |:-|:-:|-|:-:|
 |||||
 |[Avishkar 2k22]()|PhasorJS, ReactJs, NodeJs, PlanetScale, SQL| A website for annual techfest of MNNIT Allahabad|[here](https://avishkar.mnnit.ac.in/)|
-|[cWuzzle](https://cwuzzle.netlify.app/)|NextJs, FastAPI, SupaBase|A website about crossword puzzles. Create, Play, and Share fun crosswords on the go with the latest features like autosave, clue highlight, private sharing, crossword regeneration, and many more...|[here](https://cwuzzle.netlify.app/)|
+|[cWuzzle](https://cwuzzle.netlify.app/)|NextJs, FastAPI, SupaBase|A website about crossword puzzles. Create, Play, and Share fun crosswords on the go with the latest features like autosave, clue highlight, private sharing, crossword regeneration, and many more...|[cWuzzle](https://cwuzzle.netlify.app/), [devfolio](https://devfolio.co/projects/cwuzzle-aa43)|
 |[Gesto](https://gestobypotehtot.netlify.app/)|Mediapipe, Tensorflow.js, NextJs, FastAPI, Firebase|A first of it's kind web app for custom gesture training and recognition with Zero Prediction Latency, Faster Training and High Accuracy|[here](https://gestobypotehtot.netlify.app/)|
 |[Dr. Vincent](https://github.com/sanskaromar/Dr.Vincent)|Unity3D, C#|A RPG game based around theme of covid-19 pandemic|[here](https://github.com/sanskaromar/Dr.Vincent)|
 |[Collabarush]()|NextJS 13, SupaBase, SocketIO| A real time collaborative paint application|[here](https://youtu.be/rlPfgZ50KW0)|
