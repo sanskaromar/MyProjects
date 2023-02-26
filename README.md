@@ -10,7 +10,7 @@ This reporitory serves as an organised list for all my projects.
 |[Dr. Vincent](https://github.com/sanskaromar/Dr.Vincent)|Unity3D, C#|A RPG game based around theme of covid-19 pandemic|[here](https://github.com/sanskaromar/Dr.Vincent)|
 |[Collabarush]()|NextJS 13, SupaBase, SocketIO| A real time collaborative paint application|[here](https://youtu.be/rlPfgZ50KW0)|
 |[Track My Tasks](https://track-my-tasks.netlify.app/todo)|React|Minimalistic Personal Tasks Tracker built with open source contribution from various devs|[here](https://track-my-tasks.netlify.app/todo)|
-|[Culrav 2k22]()|HTML, CSS, JS, PhP| Culrav is the annual cultural fest of MNNIT Allahabad. I along with @priyavkaneria were part of web team for Culrav 2k22|[here]()|
+|[Culrav 2k22]()|HTML, CSS, JS, PhP| Culrav is the annual cultural fest of MNNIT Allahabad. I along with @priyavkaneria were part of web team for Culrav 2k22|[here](https://github.com/sanskaromar/Culrav-2022)|
 |[protectHer](https://github.com/Arver24/protectHER)|React|A woman safety app and police client|[here](https://github.com/Arver24/protectHER)|
 |[Calculator with quotes](https://calculator-with-quotes.netlify.app/)|React|A simple calculator and quote display app|[here](https://github.com/sanskaromar/calculator-with-quotes)|
 |[Country App](https://country-app-nextjs.netlify.app/)|React|Display data from rest country api|[here](https://gitlab.com/sanskar_omar/country-app-with-next-js)|
