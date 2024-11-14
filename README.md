@@ -1,6 +1,8 @@
 # MyProjects
 This reporitory serves as an organised list for all my projects.
 
+Check out my github profile at [github.com/sanskaromar](https://github.com/sanskaromar)
+
 |Project|Tech Stack|Description|Link|
 |:-|:-:|-|:-:|
 |||||
